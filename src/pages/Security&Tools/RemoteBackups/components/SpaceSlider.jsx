@@ -48,7 +48,7 @@ const SpaceSlider = () => {
               </h2>
               <div className="mt-4 primeBttn w-fit mx-auto">
                 <a
-                  href="https://portal.mergosoft.com/order/main/index/Hosting"
+                  href="https://portal.HostIT.com/order/main/index/Hosting"
                   target="_blank"
                 >
                   Order Now

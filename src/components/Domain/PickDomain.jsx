@@ -63,7 +63,7 @@ const PickDomain = () => {
                   hover:scale-[1.02] transition-all ease-linear"
                 >
                   <h3 className="font-medium my-auto w-full md:w-1/5 text-center md:text-left">
-                    Mergosoft<span className="text-primeBlue">{domain}</span>
+                    HostIT<span className="text-primeBlue">{domain}</span>
                   </h3>
                   <div className="w-full md:w-auto">
                     <h2 className="text-primeBlue text-[24px] font-bold text-center md:text-left">

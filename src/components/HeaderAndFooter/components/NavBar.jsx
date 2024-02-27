@@ -18,6 +18,8 @@ import {
   securitySectionData,
 } from "../data/navBarData";
 import logo from "../../../assets/MergoHostLogo.png";
+import logo1 from "../../../assets/logo/HostIT-removebg-preview.png";
+import logo2 from "../../../assets/logo/HostIT-removebg.png";
 import ceo from "../../../assets/img/ceo.png";
 import { Link } from "react-router-dom";
 import BSearch from "../../BSearch/BSearch";
@@ -71,9 +73,9 @@ const NavBar = () => {
       >
         <Link to="/">
           <img
-            src={logo}
+            src={logo1}
             alt=""
-            className="w-[200px] lg:w-[250px] object-contain"
+            className="w-[200px] lg:w-[250px] object-contain  scale-150"
           />
         </Link>
         {/* <div className="hidden lg:flex items-center justify-center h-full gap-10"> */}
@@ -195,14 +197,15 @@ const NavBar = () => {
             )}
           </li> */}
         </ul>
-        <a
+        <Link
+          to="/get-in"
           className="px-6 py-3 text-sm text-white rounded bg-primary 
           hover:bg-primary/80 transition-all ease-linear hidden lg:block"
-          href="https://portal.mergosoft.com/client/login/"
-          target="_blank"
+          // href="https://portal.HostIT.com/client/login/"
+          // target="_blank"
         >
           Login
-        </a>
+        </Link>
         {/* </div> */}
         {/* Menu Bar Button*/}
         <button onClick={menuBarHandler} className="lg:hidden">

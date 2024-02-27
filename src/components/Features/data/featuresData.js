@@ -85,7 +85,7 @@ export const platformFeatureData = [
     id: "pfd_6",
     Icon: TfiWallet,
     title: "Money-back Guarantee",
-    desc: "If you’re not 100% satisfied with Mergosoft, we’ll refund your payment no risk",
+    desc: "If you’re not 100% satisfied with HostIT, we’ll refund your payment no risk",
   },
 ];
 

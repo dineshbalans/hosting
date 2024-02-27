@@ -8,7 +8,7 @@ const BusinessFeature = () => {
     <section className="bg-white">
       <section className={`pddng space-y-10 centerContainer`}>
         <MainContext
-          title="Why Choose Mergosoft For Reseller Hosting Business"
+          title="Why Choose HostIT For Reseller Hosting Business"
           tStyle="w-[60%] text-center"
           subTitle="Distinctively centered core competencies through client-centered core competencies. Enthusiastically provide access."
         />

@@ -25,11 +25,11 @@ const HomePage = () => {
         <div className="px-6 py-20 md:px-12 lg:py-0 lg:px-[75px] text-white flex flex-wrap lg:flex-nowrap gap-20 centerContainer">
           <div className="w-full lg:w-1/2 lg:py-[200px] space-y-4 ">
             <h1 className="title text-white">
-              Mergosoft Best Hosting Provider in World
+              HostIT Best Hosting Provider in World
             </h1>
             <h4 className="sub-title text-white">
               If your WordPress website is your personal business, we want you
-              to succeed. We made our Mergosoft hosting & domain service
+              to succeed. We made our HostIT hosting & domain service
               provider platform.
             </h4>
             {/* Search Domain */}
@@ -92,8 +92,8 @@ const HomePage = () => {
       </div>
       <div className="pddng space-y-12 bg-white centerContainer">
         <MainContext
-          title="Mergosoft Helps You Succeed"
-          subTitle="Grow your website faster by using Mergosoft as your foundation.
+          title="HostIT Helps You Succeed"
+          subTitle="Grow your website faster by using HostIT as your foundation.
           Dynamically streamline principle-centered technologies."
         />
         <ServiceTiles />

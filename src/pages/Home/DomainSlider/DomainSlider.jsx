@@ -72,7 +72,7 @@ const DomainSlider = () => {
                 <MainContext
                   title="Search Your Unique Domain"
                   subTitle="If your WordPress website is your personal business, we
-                want you to succeed. We made our Mergosoft hosting platform."
+                want you to succeed. We made our HostIT hosting platform."
                   tStyle="text-white w-full"
                   stStyle="text-white text-start"
                   flagWidth={false}

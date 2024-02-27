@@ -10,7 +10,7 @@ const LoginOrSignup = () => {
 
   useEffect(() => {
     // Scroll to the top when isLogin changes
-    window.scrollTo(0, 100);
+    window.scrollTo(0, 30);
   }, [isLogin]);
 
   return (

@@ -206,7 +206,7 @@ const Plans = ({ showPlansBttn = false }) => {
 
               <div className="mt-4 ">
                 <a
-                  href="https://portal.mergosoft.com/order/main/index/Hosting"
+                  href="https://portal.HostIT.com/order/main/index/Hosting"
                   target="_blank"
                   className={`px-4 lg:px-10 py-[10px] text-[15px] font-medium rounded border 
               border-primary text-primary hover:bg-primary hover:text-white
@@ -375,7 +375,7 @@ export default Plans;
         </ul>
         <div>
           <a
-            href="https://portal.mergosoft.com/order/main/index/Hosting"
+            href="https://portal.HostIT.com/order/main/index/Hosting"
             target="_blank"
             className={`px-6 py-[10px] text-[15px] font-medium rounded border
               border-primary text-primary hover:bg-primary hover:text-white

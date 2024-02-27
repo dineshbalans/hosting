@@ -12,7 +12,7 @@ const RootLayout = () => {
   useEffect(() => {
     const fetchData = async () => {
       try {
-        const response = await fetch("https://host.mergosoft.com/api/");
+        const response = await fetch("https://host.HostIT.com/api/");
         console.log(response);
         if (!response.ok) {
           const message = `An error occurred: ${response.statusText}`;

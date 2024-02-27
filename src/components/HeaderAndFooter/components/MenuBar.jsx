@@ -388,7 +388,7 @@ const MenuBar = ({ setMenuBar }) => {
         <a
           className="px-6 py-3 text-sm text-white rounded bg-primary 
           hover:bg-primary/80 transition-all ease-linear w-full sml:w-1/2 text-center"
-          href="https://portal.mergosoft.com/client/login/"
+          href="https://portal.HostIT.com/client/login/"
           target="_blank"
         >
           Login

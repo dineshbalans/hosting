@@ -8,7 +8,7 @@ const CallToAction = () => {
     <section className="pddng bg-secondary/[0.75] space-y-5">
       <MainContext
         title="Already have a domain that you love?"
-        subTitle="No problem! It 's quick and painless to transfer your hosting, domain registrations, or both to Mergosoft maximize market positioning solutions and enterprise services."
+        subTitle="No problem! It 's quick and painless to transfer your hosting, domain registrations, or both to HostIT maximize market positioning solutions and enterprise services."
         tStyle="text-white"
         stStyle="text-white"
       />

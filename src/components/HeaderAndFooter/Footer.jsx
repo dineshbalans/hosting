@@ -77,7 +77,7 @@ const Footer = () => {
           <h6 className="font-medium text-sm text-center lg:text-left">
             {/* Copyright */}
             Copyrights © 2023. All rights reserved by {/* Company Name */}
-            <span className="text-primeBlue">Mergosoft</span>
+            <span className="text-primeBlue">HostIT</span>
           </h6>
 
           {/* Payment Method Images */}

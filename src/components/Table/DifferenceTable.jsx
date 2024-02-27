@@ -7,7 +7,7 @@ const DifferenceTable = () => {
     <section className="bg-white">
       <div className={`pdng space-y-12 centerContainer`}>
         <MainContext
-          title="Mergosoft head to head comparison"
+          title="HostIT head to head comparison"
           subTitle="Globally incubate next-generation e-services via state of the art technology.
          Appropriately iterate quality."
         />

@@ -29,7 +29,7 @@ const PlanItems = ({
       {/* Order Button */}
       <div className="mt-4 primeBttn">
         <a
-          href="https://portal.mergosoft.com/order/main/index/Hosting"
+          href="https://portal.HostIT.com/order/main/index/Hosting"
           target="_blank"
         >
           Order Now
